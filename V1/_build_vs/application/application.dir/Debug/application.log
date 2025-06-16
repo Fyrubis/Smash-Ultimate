@@ -1,0 +1,77 @@
+﻿  Building Custom Rule C:/Users/meven/Documents/Dev/Smash Ultimate/Smash-Ultimate/V1/application/CMakeLists.txt
+  game_assets.cpp
+  game_common.cpp
+  camera.cpp
+  damage_utils.cpp
+  kinematic_utils.cpp
+  terrain_utils.cpp
+  tracked_target.cpp
+  visual_id.cpp
+  bomb.cpp
+  potion.cpp
+  fire_knight_system.cpp
+  player_ai.cpp
+  player_command.cpp
+  player_components.cpp
+  player_controller_system.cpp
+  player_input_system.cpp
+  player_utils.cpp
+  shield.cpp
+  water_priestess_system.cpp
+  star_fields_platform.cpp
+  Generating Code...
+  Compiling...
+  star_fields_terrain.cpp
+  imgui_components.cpp
+  imgui_manager.cpp
+  application_input.cpp
+  controls_input.cpp
+  mouse_input.cpp
+  main.cpp
+  stage_manager.cpp
+  title_manager.cpp
+  ui_default_button.cpp
+  ui_default_cursor.cpp
+  ui_text_list.cpp
+  ui_pause_menu.cpp
+  ui_stage_hud.cpp
+  ui_stage_page.cpp
+  ui_title_background.cpp
+  ui_title_page.cpp
+  Generating Code...
+box2dd.lib(math_functions.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(math_functions.obj)' or at ''; linking object as if no debug info
+box2dd.lib(world.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(world.obj)' or at ''; linking object as if no debug info
+box2dd.lib(body.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(body.obj)' or at ''; linking object as if no debug info
+box2dd.lib(shape.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(shape.obj)' or at ''; linking object as if no debug info
+box2dd.lib(types.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(types.obj)' or at ''; linking object as if no debug info
+box2dd.lib(geometry.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(geometry.obj)' or at ''; linking object as if no debug info
+box2dd.lib(hull.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(hull.obj)' or at ''; linking object as if no debug info
+box2dd.lib(core.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(core.obj)' or at ''; linking object as if no debug info
+box2dd.lib(timer.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(timer.obj)' or at ''; linking object as if no debug info
+box2dd.lib(aabb.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(aabb.obj)' or at ''; linking object as if no debug info
+box2dd.lib(contact.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(contact.obj)' or at ''; linking object as if no debug info
+box2dd.lib(island.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(island.obj)' or at ''; linking object as if no debug info
+box2dd.lib(joint.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(joint.obj)' or at ''; linking object as if no debug info
+box2dd.lib(sensor.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(sensor.obj)' or at ''; linking object as if no debug info
+box2dd.lib(solver_set.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(solver_set.obj)' or at ''; linking object as if no debug info
+box2dd.lib(bitset.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(bitset.obj)' or at ''; linking object as if no debug info
+box2dd.lib(table.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(table.obj)' or at ''; linking object as if no debug info
+box2dd.lib(distance.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(distance.obj)' or at ''; linking object as if no debug info
+box2dd.lib(dynamic_tree.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(dynamic_tree.obj)' or at ''; linking object as if no debug info
+box2dd.lib(broad_phase.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(broad_phase.obj)' or at ''; linking object as if no debug info
+box2dd.lib(constraint_graph.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(constraint_graph.obj)' or at ''; linking object as if no debug info
+box2dd.lib(id_pool.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(id_pool.obj)' or at ''; linking object as if no debug info
+box2dd.lib(arena_allocator.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(arena_allocator.obj)' or at ''; linking object as if no debug info
+box2dd.lib(solver.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(solver.obj)' or at ''; linking object as if no debug info
+box2dd.lib(manifold.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(manifold.obj)' or at ''; linking object as if no debug info
+box2dd.lib(array.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(array.obj)' or at ''; linking object as if no debug info
+box2dd.lib(distance_joint.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(distance_joint.obj)' or at ''; linking object as if no debug info
+box2dd.lib(motor_joint.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(motor_joint.obj)' or at ''; linking object as if no debug info
+box2dd.lib(mouse_joint.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(mouse_joint.obj)' or at ''; linking object as if no debug info
+box2dd.lib(prismatic_joint.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(prismatic_joint.obj)' or at ''; linking object as if no debug info
+box2dd.lib(revolute_joint.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(revolute_joint.obj)' or at ''; linking object as if no debug info
+box2dd.lib(weld_joint.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(weld_joint.obj)' or at ''; linking object as if no debug info
+box2dd.lib(wheel_joint.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(wheel_joint.obj)' or at ''; linking object as if no debug info
+box2dd.lib(contact_solver.obj) : warning LNK4099: PDB '' was not found with 'box2dd.lib(contact_solver.obj)' or at ''; linking object as if no debug info
+     Creating library C:/Users/meven/Documents/Dev/Smash Ultimate/Smash-Ultimate/V1/_build_vs/application/Debug/application.lib and object C:/Users/meven/Documents/Dev/Smash Ultimate/Smash-Ultimate/V1/_build_vs/application/Debug/application.exp
+  application.vcxproj -> C:\Users\meven\Documents\Dev\Smash Ultimate\Smash-Ultimate\V1\_bin\Debug\application.exe

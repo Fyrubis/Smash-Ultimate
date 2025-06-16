@@ -1,0 +1,10 @@
+^C:\USERS\MEVEN\DOCUMENTS\DEV\SMASH ULTIMATE\SMASH-ULTIMATE\V1\_BUILD_VS\CMAKEFILES\19B2AFE1D31AE91275FBB867857705FE\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/meven/Documents/Dev/Smash Ultimate/Smash-Ultimate/V1" "-BC:/Users/meven/Documents/Dev/Smash Ultimate/Smash-Ultimate/V1/_build_vs" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/meven/Documents/Dev/Smash Ultimate/Smash-Ultimate/V1/_build_vs/super_pixel_smash_ecs.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
